@@ -4,20 +4,19 @@
 Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+June 16, 2018
 
 ### Student Name:  
-(First and Last Name)
+Steven Smith
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+In this lesson we learned how javascript can be used to compute functions as well as varible submitted by the end-user, such as text and numeric values.
 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+ https://undergroundhits.github.io/lesson5_javascript2/
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. In this assignment we learned the various componenet of what makes javascript operate such as Loops, Objects, and Arrayst. 
+2. The lesson illustrated the use of various methods javascript triggered during and events or (onclick) which is triggered by the HTML embedded link. 
+3. The assignment aslo discussed the many usages of the Javscript and the various features that can be applied when building a complex script. 
 
